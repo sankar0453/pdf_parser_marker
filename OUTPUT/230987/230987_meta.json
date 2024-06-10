@@ -1,0 +1,119 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Evaluating scholastic achievement in pediatric brain tumor survivors compared to healthy controls.",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                799.8800048828125,
+                0.0
+            ]
+        },
+        {
+            "title": "Abstract",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                702.0800170898438,
+                0.0
+            ]
+        },
+        {
+            "title": "Details",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                647.1399536132812,
+                0.0
+            ]
+        },
+        {
+            "title": "Authors",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                42.599998474121094,
+                0.0
+            ]
+        },
+        {
+            "title": "Raymond Mailhot Vega",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                547.2000122070312,
+                0.0
+            ]
+        },
+        {
+            "title": "Organizations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                371.510009765625,
+                0.0
+            ]
+        },
+        {
+            "title": "Research Funding",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                169.9499969482422,
+                0.0
+            ]
+        }
+    ],
+    "pages": 3,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

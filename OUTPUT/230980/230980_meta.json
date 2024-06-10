@@ -1,0 +1,106 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Tucidinostat plus R-CHOP in previously untreated diffuse large B-cell lymphoma with double expression of MYC and BCL2: An interim analysis from the phase III DEB study.",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                799.8800048828125,
+                0.0
+            ]
+        },
+        {
+            "title": "Abstract",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                685.8800048828125,
+                0.0
+            ]
+        },
+        {
+            "title": "Details",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                630.9400024414062,
+                0.0
+            ]
+        },
+        {
+            "title": "Authors",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                80.0999984741211,
+                0.0
+            ]
+        },
+        {
+            "title": "Weili Zhao",
+            "level": 2,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                39.40999984741211,
+                0.0
+            ]
+        },
+        {
+            "title": "Organizations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                620.1699829101562,
+                0.0
+            ]
+        }
+    ],
+    "pages": 2,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
